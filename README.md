@@ -1,4 +1,4 @@
-<img align ="centre" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2lgczr2VITVFTXhN5i-Iu1&ust=1696606623590000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiU1Kqe34EDFQAAAAAdAAAAABAZ)">
+<img align ="centre" alt="coding" width="1300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <h1 align="center">Hi 👋, I'm Pratik Patrimath (Patrick)</h1>
 <h3 align="center">A passionate guy from India who is curious about computer and Software.</h3>
 
