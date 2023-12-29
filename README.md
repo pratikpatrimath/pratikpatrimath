@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **pratikpatrimath@gmail.com**
 
-- ⚡ Fun fact **I don't talk.🤐**
+- ⚡ Fun fact **I speak less 🤐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
