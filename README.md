@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **pratikpatrimath@gmail.com**
 
-- ⚡ Fun fact **I speak less 🤐**
+- ⚡ Fun fact **Minimalist by nature, my code speaks louder than my words on GitHub**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
